@@ -1,6 +1,6 @@
-### 我的博客
+### 寻梦的博客
 
-地址：[http://yansu.org](http://yansu.org)
+地址：[http://neeba.net](http://neeba.net)
 
 ### 安装说明
 
